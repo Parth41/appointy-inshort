@@ -8,4 +8,4 @@
   * URL should be ‘/articles’
 
 Output:
-<img src="SS/Endpoint-Article-get" data-canonical-src="SS/Endpoint-Article-get" width="674" height="434" />
+<img src="SS/Endpoint-Article-get.png" data-canonical-src="SS/Endpoint-Article-get.png" width="674" height="434" />
