@@ -39,10 +39,10 @@ Output 2:
  
  #### pagination
  ##### pagination in /articles
-<img src="https://raw.githubusercontent.com/Parth41/appointy-inshort/master/SS/Endpoint-Article-get-method-Pagination.png" data-canonical-src="https://raw.githubusercontent.com/Parth41/appointy-inshort/master/SS/Endpoint-Article-get-method-Pagination.png: width="674" height="434" />
+<img src="https://raw.githubusercontent.com/Parth41/appointy-inshort/master/SS/Endpoint-Article-get-method-Pagination.png" data-canonical-src="https://raw.githubusercontent.com/Parth41/appointy-inshort/master/SS/Endpoint-Article-get-method-Pagination.png" width="674" height="434" />
  
  ##### pagination in /articles/search?q
-<img src="https://github.com/Parth41/appointy-inshort/raw/master/SS/Endpoint-Article:search-get-method-pagination.png" data-canonical src="https://github.com/Parth41/appointy-inshort/raw/master/SS/Endpoint-Article:search-get-method-pagination.png: width="674" height="434" />
+<img src="https://github.com/Parth41/appointy-inshort/raw/master/SS/Endpoint-Article:search-get-method-pagination.png" data-canonical src="https://github.com/Parth41/appointy-inshort/raw/master/SS/Endpoint-Article:search-get-method-pagination.png" width="674" height="434" />
  
  
  
